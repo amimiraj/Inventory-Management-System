@@ -1,0 +1,4 @@
+dbhost=localhost
+dbname=id18845360_inventorymanagementsystem
+dbusername=id18845360_inventory_management
+pass=<tFy5@H[%BUbd6-l
