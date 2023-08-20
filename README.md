@@ -1,11 +1,3 @@
 # Inventory-Management-System
 
-To set up the repository and run the marketplace locally, run the below
-
-
-```bash
-git clone https://github.com/amimiraj/NFT-marketplace.git
-cd NFT-marketplace
-npm install
-npm start
-```
+I played a pivotal role in the development of an Inventory Management System. This sophisticated solution significantly aids shop owners in meticulously monitoring their products and sales records. My contribution primarily involved serving as a backend developer, leveraging Laravel for robust functionality and MySQL for efficient data management.
