@@ -44,4 +44,5 @@ I played a pivotal role in the development of an Inventory Management System. Th
 #PHP     
 #Laravel    
 #JavaScript   
+#Bootstrap
 #MySQL   
